@@ -35,6 +35,8 @@
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST APIF37626?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_scrapping-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 
 ---
 
