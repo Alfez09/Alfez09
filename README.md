@@ -28,17 +28,7 @@
 
 ### 📚 Tech Stack & Tools
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST APIF37626?style=flat&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_scrapping-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-
----
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=flat&logo=beautifulsoup&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> </p>
 
 ### 📈 GitHub Stats
 
